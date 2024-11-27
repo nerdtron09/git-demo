@@ -1,0 +1,13 @@
+total 44
+drwxrwxrwt 12 root root 4096 Nov 28 00:52 ./
+drwxr-xr-x 22 root root 4096 Nov 25 14:14 ../
+drwxrwxrwt  2 root root 4096 Nov 25 14:14 .ICE-unix/
+drwxrwxrwx  2 root root   60 Nov 25 14:14 .X11-unix/
+drwxrwxrwt  2 root root 4096 Nov 25 14:14 .XIM-unix/
+drwxrwxrwt  2 root root 4096 Nov 25 14:14 .font-unix/
+drwx------  2 root root 4096 Nov 25 14:14 snap-private-tmp/
+drwx------  3 root root 4096 Nov 26 10:38 systemd-private-e09d87be2339411b9b3683c24580e15a-polkit.service-Nexb8S/
+drwx------  3 root root 4096 Nov 25 14:14 systemd-private-e09d87be2339411b9b3683c24580e15a-systemd-logind.service-6g0eRt/
+drwx------  3 root root 4096 Nov 25 14:14 systemd-private-e09d87be2339411b9b3683c24580e15a-systemd-resolved.service-vk1f6I/
+drwx------  3 root root 4096 Nov 25 14:14 systemd-private-e09d87be2339411b9b3683c24580e15a-systemd-timesyncd.service-aMv0Mf/
+drwx------  3 root root 4096 Nov 25 14:14 systemd-private-e09d87be2339411b9b3683c24580e15a-wsl-pro.service-xsfUyg/
